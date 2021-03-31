@@ -1,0 +1,81 @@
+Node.js
+Para utilizarmos o JavaScript fora do navegador, precisamos utilizar o Node.js.
+A utilização deste framework permite que façamos códigos javaScript no desktop e em todos os lugares que forem compatíveis com ele.
+
+Jasmine
+A utilização do framework Jasmine, nos permite desenvolver testes para javaScript.
+
+JSLint
+Ferramenta utilizada para manter a organização, identação e qualidade do código com javaScript.
+
+//Gulp
+Automatizador de tarefas e de processo de desenvolvimento
+
+//Frameworks para trabalhar com node.js no servidor
+Meteor
+Express, Hapi e Koa
+
+//JavaScript para dispositos móveis:
+Para os dispositivos móveis, temos duas opções:
+
+1 - Aplicações Híbridas: Desenvolvimento com html, css e js, estas aplicações
+híbridas executam no navegador interno do dispositivo, este navegador tem a capacidade
+de acessar informações do dispositivo que um navegador comum não possui.
+O principal problema desta aplicação é que podemos ter problemas de compatibilidade destes navegadores internos, com determinados
+recursos da nossa aplicação.
+Tecnologias: Cordova/PhoneGap, Ionic entre outros
+
+2 - Aplicações Nativas
+Desenvolvemos o código das telas com xml e css, já a linguagem utilizada para programação é o react.
+As aplicações nativas transformam o código xml da tela em uma tela nativa. Já as ações, são escritas em JS.
+
+//JavaScript para sistemas desktop
+Os códigos de JavaScript executados no desktop utilizam o Node.js, estas aplicações normalmente utilizam o Chromium, que é um navegador
+de código aberto que está por trás do Google Chrome e do Node.js.
+As telas são desenvolvidas com Html e Css, e o JavaScript tem a capacidade de se comunicar com o Node.js, que fica embutido na aplicação.
+Atualmente o framework mais utilizado para este processo é o Electron.
+Sistemas com esta ferramenta:
+Atom, Visual Studio Code, Slack
+
+//SmartTVs
+O JavaScript também pode ser utilizado no desenvolvimento  de aplicações para SmartTvs, as que mais dão suporte a elas,
+são as tvs da marca samsung.
+
+//Desenvolvimento de aplicações 3D
+A parte do elemento <canvas> presente no HTML5 e da API WebGL, temos a capacidade de trabalhar com
+renderização de gráficos 2D e 3D.
+
+Além disso, a biblioteca Three.js nos ajuda a trabalhar com 3D, utilizando JavaScript 
+
+//Desenvolvimento de jogos com js
+Através do elemento canvas do HMTL5, temos a capacidade de desenhar na tela.
+Além disso, também temos o auxílio do JavaScript, através das bibliotecas Impact, que é paga, e da biblioteca Phaser, que é gratuita.
+
+//Desenvolvimento de plugins em JavaScript
+A linguagem JavaScript também pode ser utilizada para criar plugins, um dos softwares mais famosos
+capazes de aceitar plugins em JavaScript, é o Photoshop.
+
+//Sistemas operacionais em JS
+Atualmente existe um sistema operacional conhecido como NodeOS, ele foi escrito em Js, este é o SO que está
+por trás dos serviços do NPM.
+Qualquer pacote do npm é um pacote do NodeOS. O Objetivo do NodeOs é fornecer apenas o necessário, e o npm cuida do resto.
+
+//Hardware e Internet das coisas
+Através do Node.js, temos a capacida de controlar hardwares, tal como drones.
+Além disso, podemos programar placas e integrar diversos objetos, no modelo IOT.
+Para desenvolver este tipo de aplicação, temos alguns frameworks no mercado, tais como:
+Noduino -> É um framework para acessar os controles básicos do arduino, a partir de aplicações usando HTML5, Socket.IO e Node.js
+Tessel -> Segue a mesma ideia do Noduino
+Cyclon.js -> É um framework voltado para robótica, computação física e internet das coisas
+
+//Desenvolvimento de Hologramas
+Através do JavaScript, temos a capacidade de criar Hologramas, através de frameworks como HoloJS, da Microsoft. Ele é voltado para criar
+aplicações holográficas usando JavaScript e WebGL
+
+//Realidade aumentada e realidade virtual
+Para o desenvolvimento destas aplicações, temos o framework JavaScript ARToolKit
+
+//Inteligência artifical
+Existem várias bibliotecas em JavaScript que possibilitam o desenvolvimento de aplicações voltadas para IA, uma delas é a biblioteca
+deeplearn.js
+
